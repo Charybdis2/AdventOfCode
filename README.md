@@ -8,7 +8,7 @@ I didn't complete any at the time of the problem getting posted
 | Day | File | Stars |
 |-----|------|-------|
 | 1   |   [day1.java](https://github.com/Charybdis2/AdventOfCode/blob/main/y2015/day1.java)   |   **   |
-| 2   |      |       |
+| 2   |   [day2.java](https://github.com/Charybdis2/AdventOfCode/blob/main/y2015/day2.java)   |   **    |
 | 3   |      |       |
 | 4   |      |       |
 | 5   |      |       |
